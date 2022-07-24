@@ -24,13 +24,13 @@ making resume using hml and css
                 <h2>Contact</h2>
                  
  
-<p><b>Email id:</b>gauravshiromani@gmail.com</p>
+<p><b>Email id:</b>gauravs@gmail.com</p>
  
  
  
                  
  
-<p><b>Mobile no :</b>8591081463</p>
+<p><b>Mobile no :</b>8591429721</p>
  
  
             </div>
